@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script>
+        function loadDoc() {
+        const xhttp = new XMLHttpRequest();
+        xhttp.onload = function() {
+            document.getElementById("sales").innerHTML = this.responseText;
+            }
+        xmlhttp.open("GET","getsales.php",true);
+        xhttp.send();
+        }
+        </script>
+        </head>
+<body>
+
+<div id="sales">
+  <h2>Let AJAX fetch sales data from DB</h2>
+  <button type="button" onclick="loadSales()">Change Content</button>
+</div>
+
+</body>
+</html> 
+
+
+<!-- <html>
+    <head>
+    <script>
+    function showUser(str) {
+      if (str == "") {
+        document.getElementById("txtHint").innerHTML = "";
+        return;
+      } else {
+        var xmlhttp = new XMLHttpRequest();
+        xmlhttp.onreadystatechange = function() {
+          if (this.readyState == 4 && this.status == 200) {
+            document.getElementById("txtHint").innerHTML = this.responseText;
+          }
+        };
+        xmlhttp.open("GET","getsales.php?q="+str,true);
+        xmlhttp.send();
+      }
+    }
+    </script>
+    </head>
+    <body>
+    
+    <form>
+    <select name="users" onchange="showUser(this.value)">
+      <option value="">Select good:</option>
+      <option value="1">Cosmetics</option>
+      <option value="2">Vegetables</option>
+      <option value="3">Cereal</option>
+      <option value="4">Fruits</option>
+      </select>
+    </form>
+    <br>
+    <div id="txtHint"><b>Good info will be listed here...</b></div>
+    
+    </body>
+    </html>  -->

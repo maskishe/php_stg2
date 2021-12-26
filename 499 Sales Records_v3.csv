@@ -1,0 +1,499 @@
+1;Middle East and North Africa;Libya;Cosmetics;1989/4/25;686800706;8446;437.20
+2;North America;Canada;Vegetables;2011/10/20;185941302;3018;154.06
+3;Middle East and North Africa;Libya;Baby Food;2019/2/6;246222341;1517;255.28
+4;Asia;Japan;Cereal;2015/3/3;161442649;3322;205.70
+5;Sub-Saharan Africa;Chad;Fruits;1983/5/15;645713555;9845;9.33
+6;Europe;Armenia;Cereal;2021/5/11;683458888;9528;205.70
+7;Sub-Saharan Africa;Eritrea;Cereal;1982/2/20;679414975;2844;205.70
+8;Europe;Montenegro;Clothes;2014/9/24;208630645;7299;109.28
+9;Central America and the Caribbean;Jamaica;Vegetables;1989/5/18;266467225;2428;154.06
+10;Australia and Oceania;Fiji;Vegetables;1998/4/4;118598544;4800;154.06
+11;Sub-Saharan Africa;Togo;Clothes;1996/4/24;451010930;3012;109.28
+12;Europe;Montenegro;Snacks;2001/5/16;220003211;2694;152.58
+13;Europe;Greece;Household;1999/2/11;702186715;1508;668.27
+14;Sub-Saharan Africa;Sudan;Cosmetics;1991/9/14;544485270;4146;437.20
+15;Asia;Maldives;Fruits;2005/1/17;714135205;7332;9.33
+16;Europe;Montenegro;Clothes;2014/8/20;448685348;4820;109.28
+17;Europe;Estonia;Office Supplies;1993/2/4;405997025;2397;651.21
+18;North America;Greenland;Beverages;2021/9/25;414244067;2880;47.45
+19;Sub-Saharan Africa;Cape Verde;Clothes;1987/4/26;821912801;1117;109.28
+20;Sub-Saharan Africa;Senegal;Household;2019/9/20;247802054;8989;668.27
+21;Australia and Oceania;Federated States of Micronesia;Snacks;2017/7/18;531023156;407;152.58
+22;Europe;Bulgaria;Clothes;2022/1/7;880999934;6313;109.28
+23;Middle East and North Africa;Algeria;Personal Care;1988/7/5;127468717;9681;81.73
+24;Asia;Mongolia;Clothes;2011/1/15;770478332;515;109.28
+25;Central America and the Caribbean;Grenada;Cereal;1993/3/28;430390107;852;205.70
+26;Central America and the Caribbean;Grenada;Beverages;1990/3/23;397877871;9759;47.45
+27;Sub-Saharan Africa;Senegal;Beverages;1989/9/13;683927953;8334;47.45
+28;North America;Greenland;Fruits;1988/5/14;469839179;4709;9.33
+29;Sub-Saharan Africa;Chad;Meat;1993/12/24;357222878;9043;421.89
+30;Sub-Saharan Africa;Mauritius ;Personal Care;2005/1/11;118002879;8529;81.73
+31;Middle East and North Africa;Morocco;Beverages;1998/10/6;944415509;2391;47.45
+32;Central America and the Caribbean;Honduras;Office Supplies;2020/8/18;499009597;6884;651.21
+33;Sub-Saharan Africa;Benin;Fruits;1998/1/11;564646470;293;9.33
+34;Europe;Greece;Baby Food;1986/3/14;294499957;7937;255.28
+35;Central America and the Caribbean;Jamaica;Beverages;1983/2/8;262056386;7163;47.45
+36;Sub-Saharan Africa;Equatorial Guinea;Office Supplies;1990/4/3;211114585;2352;651.21
+37;Sub-Saharan Africa;Swaziland;Office Supplies;2022/1/12;405785882;9915;651.21
+38;Central America and the Caribbean;Trinidad and Tobago;Vegetables;2013/9/12;280494105;3294;154.06
+39;Europe;Sweden;Baby Food;1986/3/26;689975583;7963;255.28
+40;Europe;Belarus;Office Supplies;2015/10/16;759279143;6426;651.21
+41;Sub-Saharan Africa;Guinea-Bissau;Office Supplies;1989/9/6;133766114;3221;651.21
+42;Asia;Mongolia;Beverages;1992/6/16;329110324;9913;47.45
+43;Middle East and North Africa;Turkey;Meat;2010/11/27;681298100;103;421.89
+44;Sub-Saharan Africa;Central African Republic;Snacks;1993/12/10;596628272;4419;152.58
+45;Sub-Saharan Africa;Equatorial Guinea;Office Supplies;1983/9/16;901712167;5523;651.21
+46;Asia;Laos;Beverages;2016/1/28;693473613;3107;47.45
+47;Europe;Armenia;Meat;1992/12/10;489148938;8896;421.89
+48;Europe;Greece;Household;2014/7/12;876286971;1643;668.27
+49;Middle East and North Africa;Israel;Personal Care;2016/12/15;262749040;2135;81.73
+50;Asia;Bhutan;Meat;2015/7/21;726708972;8189;421.89
+51;Australia and Oceania;Vanuatu;Vegetables;2001/12/1;366653096;9654;154.06
+52;Sub-Saharan Africa;Burundi;Vegetables;2002/7/21;951380240;3410;154.06
+53;Europe;Ukraine;Cosmetics;2018/8/12;270001733;8368;437.20
+54;Europe;Croatia;Beverages;1984/12/21;681941401;470;47.45
+55;Sub-Saharan Africa;Madagascar;Fruits;2000/12/3;566935575;7690;9.33
+56;Asia;Malaysia;Snacks;1983/1/3;175033080;5033;152.58
+57;Asia;Uzbekistan;Office Supplies;1984/3/23;276595246;9535;651.21
+58;Europe;Italy;Office Supplies;1998/10/15;812295901;5263;651.21
+59;Asia;Nepal;Vegetables;2015/8/13;443121373;8316;154.06
+60;Australia and Oceania;Fiji;Personal Care;1983/12/20;600370490;1824;81.73
+61;Europe;Portugal;Office Supplies;1986/9/7;535654580;949;651.21
+62;Central America and the Caribbean;Panama;Cosmetics;2009/3/22;470897471;7881;437.20
+63;Europe;Belarus;Beverages;1998/6/13;248335492;6846;47.45
+64;Sub-Saharan Africa;Botswana;Clothes;2007/3/10;680517470;9097;109.28
+65;Sub-Saharan Africa;Tanzania;Personal Care;1989/9/6;400304734;7921;81.73
+66;Europe;Romania;Office Supplies;2006/7/23;810871112;3636;651.21
+67;Sub-Saharan Africa;Mali;Cereal;2006/5/2;235702931;8590;205.70
+68;Sub-Saharan Africa;Central African Republic;Office Supplies;1997/11/27;668599021;2163;651.21
+69;Sub-Saharan Africa;Niger;Baby Food;2014/5/8;123670709;5766;255.28
+70;Europe;Austria;Office Supplies;2005/8/19;285341823;7841;651.21
+71;Asia;India;Fruits;2016/7/4;658348691;8862;9.33
+72;Europe;Luxembourg;Baby Food;1987/2/24;817740142;6335;255.28
+73;Sub-Saharan Africa;Cape Verde;Beverages;1993/10/23;858877503;9794;47.45
+74;Europe;Sweden;Vegetables;2010/9/25;947434604;5808;154.06
+75;Europe;Iceland;Meat;1988/5/21;869397771;2975;421.89
+76;Middle East and North Africa;Qatar;Personal Care;1984/7/13;481065833;6925;81.73
+77;Sub-Saharan Africa;South Sudan;Meat;1987/1/27;159050118;5319;421.89
+78;Europe;United Kingdom;Office Supplies;1999/9/22;350274455;2850;651.21
+79;Middle East and North Africa;Tunisia ;Cereal;2010/8/4;221975171;6241;205.70
+80;North America;United States of America;Office Supplies;1990/11/26;811701095;9247;651.21
+81;Sub-Saharan Africa;Liberia;Cereal;2009/5/1;977313554;7653;205.70
+82;Sub-Saharan Africa;Eritrea;Snacks;1995/9/28;546986377;4279;152.58
+83;Asia;South Korea;Fruits;1994/1/23;769205892;3972;9.33
+84;Sub-Saharan Africa;Kenya;Clothes;2017/1/18;262770926;8611;109.28
+85;Sub-Saharan Africa;Rwanda;Snacks;2004/1/6;866792809;2109;152.58
+86;Central America and the Caribbean;Cuba;Beverages;2003/9/13;890695369;5408;47.45
+87;Middle East and North Africa;Libya;Cereal;2011/3/9;964214932;1480;205.70
+88;Europe;Czech Republic;Snacks;2003/6/20;887400329;332;152.58
+89;Europe;Montenegro;Beverages;1996/7/6;980612885;3999;47.45
+90;Europe;Montenegro;Clothes;2016/5/28;734526431;1549;109.28
+91;Asia;Philippines;Baby Food;2012/11/14;160127294;4079;255.28
+92;Central America and the Caribbean;El Salvador;Clothes;2000/8/26;238714301;9721;109.28
+93;Australia and Oceania;Tonga;Household;2014/10/11;671898782;8635;668.27
+94;Sub-Saharan Africa;Democratic Republic of the Congo;Personal Care;2002/3/24;331604564;8014;81.73
+95;Middle East and North Africa;Afghanistan;Cereal;2014/6/11;410067975;7081;205.70
+96;Australia and Oceania;Tuvalu;Snacks;2015/9/19;369837844;2091;152.58
+97;Sub-Saharan Africa;Sudan;Fruits;1998/2/3;193775498;1331;9.33
+98;Sub-Saharan Africa;Niger;Clothes;1995/3/23;835054767;117;109.28
+99;Sub-Saharan Africa;Gabon;Household;1992/9/10;167161977;5798;668.27
+100;Australia and Oceania;East Timor;Vegetables;1985/10/28;633895957;2755;154.06
+101;North America;United States of America;Clothes;2006/10/1;699368035;7398;109.28
+102;Middle East and North Africa;Jordan;Vegetables;1988/6/22;698002040;3170;154.06
+103;Europe;Cyprus;Snacks;1988/8/7;584534299;5544;152.58
+104;Sub-Saharan Africa;Malawi;Vegetables;2005/9/6;384013640;7025;154.06
+105;Europe;Iceland;Personal Care;1997/6/11;641801393;2149;81.73
+106;Middle East and North Africa;Israel;Personal Care;1992/7/21;173571383;2484;81.73
+107;Middle East and North Africa;United Arab Emirates;Snacks;1988/12/20;115309941;1629;152.58
+108;Asia;China;Cosmetics;1993/12/24;773315894;213;437.20
+109;Sub-Saharan Africa;Kenya;Beverages;2000/12/23;274200570;897;47.45
+110;Middle East and North Africa;Somalia;Clothes;2007/2/25;414887797;3374;109.28
+111;Australia and Oceania;Tonga;Beverages;2004/6/10;812613904;9367;47.45
+112;Asia;Bangladesh;Baby Food;1997/4/3;254927718;7632;255.28
+113;Middle East and North Africa;Egypt;Beverages;2009/1/11;749690568;8954;47.45
+114;Sub-Saharan Africa;Eritrea;Cereal;2016/12/17;775076282;1150;205.70
+115;Sub-Saharan Africa;Swaziland;Office Supplies;1989/5/8;229571187;4071;651.21
+116;Asia;Vietnam;Baby Food;2005/5/26;881974112;4594;255.28
+117;Australia and Oceania;Marshall Islands;Snacks;2001/12/5;521396386;1632;152.58
+118;Asia;Taiwan;Household;2013/12/27;607261836;1127;668.27
+119;Europe;Ireland;Vegetables;2000/5/17;419306790;1052;154.06
+120;Sub-Saharan Africa;Rwanda;Meat;2007/10/14;207580077;6413;421.89
+121;Europe;Sweden;Snacks;2009/8/19;742443025;4245;152.58
+122;Sub-Saharan Africa;Gabon;Snacks;1984/6/6;164569461;8615;152.58
+123;Sub-Saharan Africa;South Africa;Baby Food;2016/5/2;734945714;5624;255.28
+124;Europe;United Kingdom;Clothes;2004/4/11;284870612;8399;109.28
+125;Europe;Albania;Fruits;2002/3/10;765955483;2104;9.33
+126;Asia;Malaysia;Snacks;1995/7/10;600124156;8929;152.58
+127;Sub-Saharan Africa;Ghana;Household;1984/12/10;529612958;3098;668.27
+128;Central America and the Caribbean;Cuba;Clothes;2022/5/9;466970717;5867;109.28
+129;Central America and the Caribbean;Saint Lucia;Cosmetics;2019/3/21;845058763;522;437.20
+130;Europe;Romania;Snacks;2008/11/9;367050921;7379;152.58
+131;Europe;Portugal;Office Supplies;2014/3/11;956433522;8788;651.21
+132;Europe;Macedonia;Beverages;1989/9/22;107005393;4129;47.45
+133;Asia;China;Beverages;2022/4/5;332877862;4811;47.45
+134;Europe;Germany;Baby Food;1995/10/23;618474757;9279;255.28
+135;Europe;Ireland;Household;1982/7/26;468532407;8006;668.27
+136;Europe;Poland;Office Supplies;2017/4/10;358099639;8496;651.21
+137;Sub-Saharan Africa;Namibia;Household;2017/3/6;382537782;285;668.27
+138;Asia;Uzbekistan;Personal Care;2018/6/18;707520663;9942;81.73
+139;Sub-Saharan Africa;Zimbabwe;Meat;2010/2/27;219034612;6064;421.89
+140;Asia;Mongolia;Meat;2010/11/10;573378455;4281;421.89
+141;Europe;Norway;Personal Care;1993/3/11;347163522;2256;81.73
+142;Middle East and North Africa;Oman;Snacks;2002/3/3;887313640;4679;152.58
+143;Europe;Serbia;Cosmetics;2015/8/28;461065137;8275;437.20
+144;Sub-Saharan Africa;Democratic Republic of the Congo;Fruits;1983/10/12;105966842;6798;9.33
+145;Europe;Bulgaria;Baby Food;2015/1/7;479880082;6035;255.28
+146;Asia;Brunei;Baby Food;1984/11/26;510978686;8803;255.28
+147;Europe;Serbia;Snacks;1995/9/23;547748982;9951;152.58
+148;Sub-Saharan Africa;Ghana;Cereal;1982/3/10;108989799;1358;205.70
+149;Sub-Saharan Africa;Malawi;Cereal;2005/3/3;133812463;6936;205.70
+150;Sub-Saharan Africa;Zimbabwe;Fruits;2004/12/7;731640803;7627;9.33
+151;Europe;Cyprus;Snacks;1991/11/13;732211148;6405;152.58
+152;Central America and the Caribbean;Nicaragua;Cereal;2021/9/24;835572326;3274;205.70
+153;Europe;Estonia;Baby Food;2004/2/18;462085664;271;255.28
+154;Europe;Estonia;Clothes;1984/6/24;902424991;6463;109.28
+155;Europe;Lithuania;Fruits;1985/10/3;367576634;2949;9.33
+156;Sub-Saharan Africa;Republic of the Congo;Meat;2017/2/17;738839423;7859;421.89
+157;Europe;Czech Republic;Baby Food;1984/11/2;817824685;1353;255.28
+158;Sub-Saharan Africa;Cameroon;Snacks;1993/5/2;376456248;624;152.58
+159;Asia;Vietnam;Office Supplies;2010/6/22;606970441;4897;651.21
+160;Europe;Moldova ;Meat;1994/5/16;971916091;424;421.89
+161;Middle East and North Africa;Bahrain;Office Supplies;1983/8/21;554154527;5494;651.21
+162;Europe;Hungary;Household;1987/1/27;306859576;5423;668.27
+163;Australia and Oceania;Marshall Islands;Personal Care;1996/3/16;803517568;7559;81.73
+164;Middle East and North Africa;Iraq;Office Supplies;1983/7/13;887927329;6283;651.21
+165;Europe;Albania;Vegetables;2017/12/22;824200189;8006;154.06
+166;Sub-Saharan Africa;Lesotho;Office Supplies;1990/7/17;946759974;6170;651.21
+167;Middle East and North Africa;Lebanon;Clothes;2013/10/24;310343015;6249;109.28
+168;Europe;Hungary;Vegetables;2021/11/7;739998137;748;154.06
+169;Asia;Japan;Beverages;2010/8/12;981086671;4203;47.45
+170;Europe;Georgia;Office Supplies;2016/12/25;749282443;8180;651.21
+171;Europe;Estonia;Office Supplies;2001/5/8;280571782;6280;651.21
+172;Europe;Luxembourg;Household;2022/11/4;781253516;9131;668.27
+173;Sub-Saharan Africa;Swaziland;Personal Care;1986/12/2;377938973;9396;81.73
+174;Europe;Romania;Clothes;1996/4/28;867551982;6765;109.28
+175;Sub-Saharan Africa;Ethiopia;Personal Care;2021/4/24;967328870;2964;81.73
+176;Sub-Saharan Africa;Chad;Office Supplies;2002/2/22;364818465;6746;651.21
+177;Middle East and North Africa;Morocco;Office Supplies;1996/11/7;167882096;8898;651.21
+178;North America;Mexico;Clothes;2019/10/25;654693591;7237;109.28
+179;Sub-Saharan Africa;Nigeria;Personal Care;2016/4/12;823739278;1612;81.73
+180;Central America and the Caribbean;Trinidad and Tobago;Beverages;2020/2/14;643817985;8904;47.45
+181;Europe;Moldova ;Personal Care;1998/11/15;604041039;8022;81.73
+182;Australia and Oceania;Solomon Islands;Personal Care;1999/10/24;363832271;4909;81.73
+183;Asia;India;Personal Care;1997/10/20;102928006;7539;81.73
+184;Sub-Saharan Africa;Burkina Faso;Office Supplies;2007/8/15;971377074;917;651.21
+185;Australia and Oceania;Kiribati;Meat;2020/3/22;139540803;2079;421.89
+186;Middle East and North Africa;Israel;Meat;1985/11/15;248093020;5093;421.89
+187;Sub-Saharan Africa;Comoros;Snacks;1982/9/7;858020055;6056;152.58
+188;Middle East and North Africa;Iran;Baby Food;1982/6/11;700620734;8099;255.28
+189;Asia;Vietnam;Cosmetics;2019/10/22;827506387;6384;437.20
+190;Central America and the Caribbean;Belize;Household;1995/11/13;560600841;3101;668.27
+191;Europe;Belarus;Personal Care;2002/7/25;642140424;2476;81.73
+192;North America;United States of America;Baby Food;2011/6/3;984673964;5763;255.28
+193;Europe;Poland;Beverages;2017/1/26;221062791;6247;47.45
+194;North America;Canada;Vegetables;1997/10/16;654480731;4247;154.06
+195;Middle East and North Africa;Israel;Beverages;1993/12/25;608414113;2111;47.45
+196;Middle East and North Africa;Lebanon;Household;1992/9/25;276661765;9219;668.27
+197;Europe;Andorra;Baby Food;1991/11/18;373335015;6982;255.28
+198;Europe;Slovakia;Clothes;1988/4/24;782857692;3843;109.28
+199;Sub-Saharan Africa;Liberia;Fruits;1988/4/18;109966123;274;9.33
+200;Central America and the Caribbean;Antigua and Barbuda ;Cereal;2018/11/25;629709136;3782;205.70
+201;Asia;China;Personal Care;2017/10/26;637448060;3901;81.73
+202;Sub-Saharan Africa;Niger;Baby Food;1997/11/5;298856723;7200;255.28
+203;Europe;United Kingdom;Household;1989/1/27;299921452;2278;668.27
+204;Asia;Bangladesh;Personal Care;2011/4/28;496941077;4763;81.73
+205;Asia;Myanmar;Snacks;2010/11/17;366526925;2317;152.58
+206;Australia and Oceania;Tonga;Meat;1988/9/22;355602824;9633;421.89
+207;Sub-Saharan Africa;Guinea-Bissau;Vegetables;2006/2/26;531405103;3434;154.06
+208;Australia and Oceania;Nauru;Vegetables;2016/12/11;131482589;7475;154.06
+209;Sub-Saharan Africa;Swaziland;Cereal;1997/12/6;713696610;7542;205.70
+210;Europe;Finland;Vegetables;2004/7/27;306220996;6452;154.06
+211;Australia and Oceania;Papua New Guinea;Household;1993/1/3;157542073;9055;668.27
+212;Sub-Saharan Africa;Mauritius ;Personal Care;2005/1/2;686458671;7230;81.73
+213;Sub-Saharan Africa;Mozambique;Office Supplies;2012/3/19;132082116;4888;651.21
+214;Europe;Bulgaria;Clothes;1999/4/8;403836238;2972;109.28
+215;Europe;Spain;Household;1994/7/19;331457364;4455;668.27
+216;Australia and Oceania;Vanuatu;Meat;2006/5/23;614994323;9341;421.89
+217;Europe;Belgium;Fruits;2004/8/8;674808442;9669;9.33
+218;Europe;Belgium;Baby Food;1997/10/21;901573550;4503;255.28
+219;Sub-Saharan Africa;Guinea-Bissau;Clothes;2007/7/10;406275975;4944;109.28
+220;Sub-Saharan Africa;Togo;Vegetables;1994/12/7;170214545;9121;154.06
+221;Sub-Saharan Africa;Cote d'Ivoire;Personal Care;1988/11/15;795000588;7196;81.73
+222;Sub-Saharan Africa;Republic of the Congo;Fruits;1994/8/17;252557933;6360;9.33
+223;Middle East and North Africa;Libya;Baby Food;1983/6/12;635122907;5837;255.28
+224;Australia and Oceania;East Timor;Vegetables;1985/5/26;505244338;1882;154.06
+225;Europe;Switzerland;Clothes;2015/7/7;745783555;2782;109.28
+226;Australia and Oceania;Palau;Snacks;2008/1/20;509914386;3853;152.58
+227;Middle East and North Africa;Jordan;Household;1992/11/26;371123158;2445;668.27
+228;Europe;Slovenia;Household;1991/1/27;973208701;2936;668.27
+229;Asia;South Korea;Baby Food;1990/4/28;780282342;1739;255.28
+230;Europe;Norway;Clothes;2013/8/17;126767909;2296;109.28
+231;Middle East and North Africa;Afghanistan;Baby Food;2003/10/13;767401731;80;255.28
+232;Asia;Bangladesh;Personal Care;1998/4/13;927232635;7597;81.73
+233;Sub-Saharan Africa;Guinea;Meat;2010/1/3;251621949;9381;421.89
+234;Central America and the Caribbean;Cuba;Office Supplies;2005/10/21;256243503;7002;651.21
+235;Europe;Russia;Cosmetics;2018/6/23;277083623;4056;437.20
+236;Sub-Saharan Africa;Seychelles ;Vegetables;2008/6/8;620441138;1175;154.06
+237;Asia;South Korea;Office Supplies;1998/7/20;312927377;1020;651.21
+238;Sub-Saharan Africa;Ghana;Baby Food;2020/11/20;251466166;3282;255.28
+239;Central America and the Caribbean;Costa Rica;Office Supplies;2006/6/12;953293836;9685;651.21
+240;Europe;Romania;Cereal;1986/1/25;305959212;8985;205.70
+241;Europe;Czech Republic;Cereal;1993/2/19;317323625;1967;205.70
+242;Europe;Liechtenstein;Household;1989/3/13;365560901;6449;668.27
+243;Sub-Saharan Africa;Seychelles ;Baby Food;2007/9/19;349157369;2279;255.28
+244;Middle East and North Africa;Somalia;Baby Food;2018/3/20;236911857;6338;255.28
+245;Australia and Oceania;Solomon Islands;Personal Care;1988/7/20;517935693;7536;81.73
+246;Sub-Saharan Africa;Uganda;Clothes;2013/6/24;851652705;1816;109.28
+247;Sub-Saharan Africa;Equatorial Guinea;Cereal;1991/2/4;517799222;7151;205.70
+248;Central America and the Caribbean;Costa Rica;Office Supplies;1997/1/16;666424071;8547;651.21
+249;Europe;Moldova ;Fruits;2017/4/1;267888581;3039;9.33
+250;Sub-Saharan Africa;Burkina Faso;Vegetables;1982/9/1;162866580;4695;154.06
+251;Central America and the Caribbean;Guatemala;Beverages;2009/11/19;812344396;9614;47.45
+252;Sub-Saharan Africa;Swaziland;Meat;2013/12/5;947620856;924;421.89
+253;Asia;Maldives;Vegetables;1999/9/22;720307290;3789;154.06
+254;Asia;Thailand;Household;1997/5/26;352327525;399;668.27
+255;Sub-Saharan Africa;Sudan;Household;1997/3/15;585917890;4979;668.27
+256;Central America and the Caribbean;Costa Rica;Meat;2015/9/8;433627212;8783;421.89
+257;Europe;Denmark;Beverages;2008/4/1;328316819;5098;47.45
+258;Sub-Saharan Africa;Angola;Cereal;1993/1/25;773160541;4240;205.70
+259;Australia and Oceania;Papua New Guinea;Household;1989/3/18;991644704;8559;668.27
+260;Asia;North Korea;Meat;1988/11/10;277568137;7435;421.89
+261;Central America and the Caribbean;El Salvador;Fruits;2010/8/27;245042169;2278;9.33
+262;Sub-Saharan Africa;Burkina Faso;Household;2003/2/26;778490626;1531;668.27
+263;Middle East and North Africa;Yemen;Baby Food;1987/3/17;482649838;5668;255.28
+264;Sub-Saharan Africa;Republic of the Congo;Beverages;2006/4/25;732568633;2193;47.45
+265;Europe;Andorra;Household;1988/8/19;723608338;642;668.27
+266;Central America and the Caribbean;Dominican Republic;Household;2019/10/15;621442782;7584;668.27
+267;Middle East and North Africa;Israel;Baby Food;1986/12/28;212058293;1616;255.28
+268;Australia and Oceania;Solomon Islands;Snacks;1984/3/13;251753699;8369;152.58
+269;Sub-Saharan Africa;Liberia;Fruits;1992/6/3;217140328;5503;9.33
+270;Sub-Saharan Africa;Mali;Vegetables;2008/1/5;555142009;7712;154.06
+271;Asia;Uzbekistan;Clothes;1986/6/15;432995069;1718;109.28
+272;Middle East and North Africa;Tunisia ;Personal Care;2004/8/11;888248336;1276;81.73
+273;Europe;Vatican City;Vegetables;2015/2/25;778763139;2173;154.06
+274;Sub-Saharan Africa;Djibouti;Snacks;2000/2/24;832713305;7227;152.58
+275;Europe;Ukraine;Household;2017/6/21;498585164;1285;668.27
+276;Australia and Oceania;East Timor;Fruits;1993/2/5;195177543;6227;9.33
+277;Sub-Saharan Africa;Uganda;Cereal;2018/2/12;861601769;5965;205.70
+278;Sub-Saharan Africa;Guinea;Meat;2009/4/23;807281672;1441;421.89
+279;Sub-Saharan Africa;Equatorial Guinea;Clothes;1982/11/27;661953580;5629;109.28
+280;Europe;Malta;Cosmetics;1995/2/14;225666320;8534;437.20
+281;Europe;Cyprus;Household;2004/12/17;718781220;2191;668.27
+282;Europe;Czech Republic;Office Supplies;1990/6/28;731972110;5668;651.21
+283;Middle East and North Africa;Libya;Vegetables;1986/8/17;276225316;64;154.06
+284;Asia;Vietnam;Office Supplies;2019/8/6;332839667;3509;651.21
+285;Middle East and North Africa;Jordan;Vegetables;2013/9/4;603426492;6163;154.06
+286;Sub-Saharan Africa;Mali;Beverages;1999/12/4;859909617;5220;47.45
+287;Europe;Czech Republic;Household;2007/2/10;494525372;9902;668.27
+288;Europe;Slovakia;Vegetables;2008/8/23;769822585;6465;154.06
+289;Sub-Saharan Africa;Zimbabwe;Vegetables;2002/5/6;768662583;3195;154.06
+290;Central America and the Caribbean;Honduras;Cereal;2018/5/8;544219195;5409;205.70
+291;Europe;Switzerland;Beverages;1987/6/28;669978749;455;47.45
+292;Sub-Saharan Africa;South Africa;Cosmetics;1990/3/3;889740073;2715;437.20
+293;Sub-Saharan Africa;Uganda;Beverages;2002/1/24;567614495;8598;47.45
+294;Middle East and North Africa;Iran;Vegetables;2015/8/23;938025844;1547;154.06
+295;Middle East and North Africa;Algeria;Vegetables;1999/10/8;155710446;7036;154.06
+296;Sub-Saharan Africa;Central African Republic;Baby Food;1985/6/28;945717132;7570;255.28
+297;Central America and the Caribbean;The Bahamas;Cosmetics;2016/1/24;253407227;7685;437.20
+298;Sub-Saharan Africa;South Africa;Household;1987/4/27;494454562;8948;668.27
+299;Sub-Saharan Africa;Benin;Cereal;1999/5/17;104845464;4957;205.70
+300;Europe;Hungary;Cosmetics;1991/7/22;290878760;6344;437.20
+301;Europe;Austria;Office Supplies;2005/10/17;979165780;5768;651.21
+302;Asia;Tajikistan;Office Supplies;2018/2/24;366630351;2923;651.21
+303;Europe;Portugal;Office Supplies;1990/5/2;770508801;9532;651.21
+304;Europe;Belgium;Beverages;1986/5/4;978349959;4349;47.45
+305;Europe;Slovenia;Beverages;2013/10/20;298015153;8161;47.45
+306;Europe;Czech Republic;Snacks;2021/5/3;807678210;8786;152.58
+307;Australia and Oceania;Marshall Islands;Personal Care;2012/4/11;605825459;6071;81.73
+308;Sub-Saharan Africa;Sudan;Fruits;1989/9/21;561255729;6897;9.33
+309;Central America and the Caribbean;Dominican Republic;Clothes;1997/11/27;263080346;175;109.28
+310;Sub-Saharan Africa;Tanzania;Cereal;2013/7/27;270723140;1848;205.70
+311;Europe;Switzerland;Clothes;2014/5/11;763920438;9888;109.28
+312;North America;Greenland;Household;2004/1/21;192721068;9302;668.27
+313;Australia and Oceania;Tonga;Fruits;1989/10/5;227486360;7124;9.33
+314;Middle East and North Africa;Saudi Arabia;Vegetables;2003/2/28;808890140;7422;154.06
+315;Central America and the Caribbean;Belize;Cosmetics;2017/10/27;597918736;6296;437.20
+316;Sub-Saharan Africa;Angola;Cosmetics;1999/4/8;125870978;6874;437.20
+317;Asia;Malaysia;Household;2004/7/8;444358193;4319;668.27
+318;Sub-Saharan Africa;Ethiopia;Beverages;1982/11/25;875304210;822;47.45
+319;North America;Greenland;Baby Food;1989/11/15;360945355;607;255.28
+320;Sub-Saharan Africa;Benin;Cereal;1993/10/16;613830459;4928;205.70
+321;Middle East and North Africa;Yemen;Cereal;1985/6/3;266820847;7073;205.70
+322;Sub-Saharan Africa;Rwanda;Baby Food;1986/12/14;723090350;7358;255.28
+323;Sub-Saharan Africa;Mauritania;Meat;1990/4/3;306125295;8132;421.89
+324;Australia and Oceania;New Zealand;Personal Care;2021/1/18;109724509;8775;81.73
+325;Australia and Oceania;Samoa ;Clothes;2019/1/13;847999322;699;109.28
+326;Australia and Oceania;Fiji;Clothes;2016/7/28;605373561;2344;109.28
+327;Sub-Saharan Africa;Malawi;Beverages;1983/9/7;686583554;4186;47.45
+328;Australia and Oceania;Marshall Islands;Beverages;2015/5/12;666678130;3729;47.45
+329;Central America and the Caribbean;Grenada;Baby Food;2011/1/3;641018617;508;255.28
+330;Europe;Luxembourg;Meat;1985/11/9;775278842;1093;421.89
+331;Sub-Saharan Africa;Zimbabwe;Meat;1985/7/17;855445134;4080;421.89
+332;Asia;China;Vegetables;2006/10/8;737816321;5100;154.06
+333;North America;United States of America;Beverages;2015/9/23;799003732;1815;47.45
+334;Sub-Saharan Africa;Central African Republic;Vegetables;2018/1/23;585931193;8916;154.06
+335;Central America and the Caribbean;Antigua and Barbuda ;Vegetables;2001/3/21;165835034;3127;154.06
+336;Central America and the Caribbean;Guatemala;Baby Food;2017/1/22;576264083;8203;255.28
+337;Middle East and North Africa;Qatar;Clothes;2006/11/21;675079667;9930;109.28
+338;Middle East and North Africa;Israel;Personal Care;2003/7/3;290455615;1126;81.73
+339;Asia;Thailand;Snacks;2000/5/26;670878255;6639;152.58
+340;Asia;Singapore;Cereal;2003/9/8;435146415;8349;205.70
+341;Asia;North Korea;Snacks;1987/3/8;522371423;167;152.58
+342;Europe;Austria;Office Supplies;2002/9/21;141977107;3036;651.21
+343;Asia;Japan;Baby Food;1999/5/27;823699796;9929;255.28
+344;Sub-Saharan Africa;Zimbabwe;Beverages;1996/1/27;567588317;851;47.45
+345;Europe;Lithuania;Fruits;2013/9/17;594003999;7838;9.33
+346;Europe;Luxembourg;Baby Food;2013/7/16;393620669;9958;255.28
+347;Sub-Saharan Africa;Central African Republic;Cosmetics;2011/12/8;877424657;8309;437.20
+348;Europe;Norway;Household;2001/10/14;326714789;1021;668.27
+349;Sub-Saharan Africa;Democratic Republic of the Congo;Fruits;2001/1/15;243102395;8256;9.33
+350;Australia and Oceania;New Zealand;Household;2002/6/17;398511302;7205;668.27
+351;Europe;Ukraine;Personal Care;2021/12/16;185177838;7092;81.73
+352;Asia;Taiwan;Personal Care;1987/10/1;865650832;4173;81.73
+353;Europe;Italy;Cereal;2012/11/25;622791612;6733;205.70
+354;Europe;Finland;Personal Care;1993/10/23;409774005;89;81.73
+355;Sub-Saharan Africa;Sudan;Office Supplies;1984/9/21;800084340;1591;651.21
+356;Europe;Croatia;Snacks;1994/12/8;637521445;5618;152.58
+357;Sub-Saharan Africa;Mauritania;Beverages;2008/1/25;186196649;8581;47.45
+358;Australia and Oceania;New Zealand;Baby Food;1992/4/2;680533778;3923;255.28
+359;Middle East and North Africa;Pakistan;Beverages;2009/7/18;275269162;7117;47.45
+360;Europe;Poland;Household;2004/10/8;795451629;668;668.27
+361;Europe;Lithuania;Cereal;2002/3/11;986442506;9113;205.70
+362;Middle East and North Africa;Pakistan;Cereal;1983/5/12;563915622;4019;205.70
+363;Australia and Oceania;East Timor;Cosmetics;1991/4/19;663857305;8984;437.20
+364;Australia and Oceania;Marshall Islands;Fruits;1992/10/17;692566382;4638;9.33
+365;Central America and the Caribbean;Cuba;Household;2014/10/6;576654183;3642;668.27
+366;North America;Greenland;Baby Food;1993/12/10;313044536;5689;255.28
+367;Europe;Luxembourg;Personal Care;2005/5/24;418973767;2503;81.73
+368;Middle East and North Africa;Israel;Beverages;1987/6/24;581990706;2838;47.45
+369;Sub-Saharan Africa;Djibouti;Baby Food;2000/7/5;109956681;7480;255.28
+370;Europe;Bulgaria;Cereal;2016/11/12;181045520;4247;205.70
+371;Asia;Mongolia;Vegetables;2006/4/3;693743550;2988;154.06
+372;Central America and the Caribbean;Dominican Republic;Clothes;1984/4/7;716849601;582;109.28
+373;Middle East and North Africa;Yemen;Cosmetics;2007/10/22;739474999;5940;437.20
+374;Australia and Oceania;Federated States of Micronesia;Personal Care;2009/1/20;421043574;5005;81.73
+375;Europe;Finland;Personal Care;1985/11/10;841291654;5751;81.73
+376;Central America and the Caribbean;The Bahamas;Cereal;2016/5/2;450268065;3181;205.70
+377;Central America and the Caribbean;Grenada;Meat;2003/12/3;918334138;4334;421.89
+378;Sub-Saharan Africa;Sao Tome and Principe;Meat;2010/1/10;386163699;3275;421.89
+379;Central America and the Caribbean;El Salvador;Personal Care;1993/2/13;214743077;6103;81.73
+380;Europe;Sweden;Baby Food;1995/11/4;935371100;5949;255.28
+381;Asia;Turkmenistan;Cosmetics;1989/8/12;899659097;7974;437.20
+382;Europe;Monaco;Vegetables;1998/5/13;329530894;4369;154.06
+383;Middle East and North Africa;Turkey;Meat;1988/12/14;867222821;9359;421.89
+384;Sub-Saharan Africa;Mozambique;Beverages;1994/3/24;625283706;4199;47.45
+385;Middle East and North Africa;Yemen;Office Supplies;1998/2/16;936574876;2173;651.21
+386;Asia;Philippines;Cereal;2010/6/24;504270160;3601;205.70
+387;Sub-Saharan Africa;Democratic Republic of the Congo;Personal Care;1991/11/28;351855885;830;81.73
+388;Australia and Oceania;Fiji;Snacks;2015/8/2;673130881;3241;152.58
+389;Europe;Macedonia;Office Supplies;2003/8/2;382206475;2244;651.21
+390;Middle East and North Africa;Tunisia ;Cereal;1984/9/28;263506495;6283;205.70
+391;Europe;Liechtenstein;Cereal;2001/3/28;721767270;5829;205.70
+392;Middle East and North Africa;Qatar;Cosmetics;2021/8/14;432037627;8390;437.20
+393;Australia and Oceania;Tonga;Meat;1988/4/27;389678895;3499;421.89
+394;Europe;Belgium;Meat;2011/5/16;760364902;7726;421.89
+395;Sub-Saharan Africa;Chad;Fruits;1995/9/15;430081975;9669;9.33
+396;Asia;Thailand;Baby Food;1999/7/18;155128943;4957;255.28
+397;Europe;Iceland;Clothes;1993/9/11;312117135;1251;109.28
+398;Central America and the Caribbean;Saint Lucia;Meat;1998/1/14;447970378;3245;421.89
+399;Asia;Japan;Cosmetics;2019/12/6;629925000;7661;437.20
+400;Asia;India;Personal Care;2011/10/12;995529830;8254;81.73
+401;Australia and Oceania;Vanuatu;Office Supplies;2018/9/23;402646195;812;651.21
+402;Sub-Saharan Africa;Chad;Meat;1988/1/12;479447925;8150;421.89
+403;Sub-Saharan Africa;Malawi;Cosmetics;2004/4/13;674421346;5118;437.20
+404;Europe;Finland;Cosmetics;2019/5/22;506365287;3596;437.20
+405;Middle East and North Africa;Turkey;Clothes;2016/9/14;914391076;7494;109.28
+406;Sub-Saharan Africa;South Africa;Meat;1990/2/9;207922542;7755;421.89
+407;Europe;Lithuania;Office Supplies;1999/6/10;816696012;7353;651.21
+408;Europe;Russia;Beverages;1986/1/26;740760314;6293;47.45
+409;Central America and the Caribbean;The Bahamas;Baby Food;1994/4/4;300476777;6610;255.28
+410;Central America and the Caribbean;The Bahamas;Snacks;1986/10/6;786519229;7373;152.58
+411;Middle East and North Africa;Turkey;Cosmetics;1982/3/4;409873998;9679;437.20
+412;Sub-Saharan Africa;Mauritius ;Cosmetics;2019/1/10;151839911;1659;437.20
+413;Europe;Bulgaria;Vegetables;2009/9/17;614028298;3473;154.06
+414;Middle East and North Africa;Iran;Household;1990/8/3;668362987;2315;668.27
+415;Sub-Saharan Africa;Ghana;Household;2010/4/4;607080304;7408;668.27
+416;Sub-Saharan Africa;Malawi;Baby Food;2008/1/24;792729079;5006;255.28
+417;Sub-Saharan Africa;Zimbabwe;Baby Food;2013/8/6;308170640;3395;255.28
+418;Asia;Tajikistan;Vegetables;1987/9/16;106578814;7894;154.06
+419;Europe;Czech Republic;Cereal;2003/12/2;761439931;5851;205.70
+420;Sub-Saharan Africa;Mauritius ;Household;2001/5/5;216552817;1646;668.27
+421;Sub-Saharan Africa;Lesotho;Fruits;1992/1/9;536028802;1689;9.33
+422;Sub-Saharan Africa;Mali;Beverages;1990/4/10;254291713;9424;47.45
+423;Europe;Georgia;Personal Care;2018/1/16;226077878;323;81.73
+424;Europe;Albania;Office Supplies;1986/8/8;476436126;6892;651.21
+425;Europe;Cyprus;Cosmetics;1994/10/5;650727784;3667;437.20
+426;Central America and the Caribbean;Saint Kitts and Nevis ;Household;2004/3/5;464626681;2215;668.27
+427;Middle East and North Africa;Tunisia ;Meat;2022/5/14;154119145;6135;421.89
+428;Central America and the Caribbean;Cuba;Meat;1999/11/9;925504004;6057;421.89
+429;Australia and Oceania;Kiribati;Cereal;1989/2/1;905392587;4641;205.70
+430;Asia;Cambodia;Snacks;1994/7/2;990708720;1581;152.58
+431;Europe;Moldova ;Baby Food;1985/5/25;798688733;8600;255.28
+432;Asia;Uzbekistan;Cereal;1992/10/4;916881453;4452;205.70
+433;Asia;India;Cosmetics;2000/7/22;653148210;9924;437.20
+434;Europe;Germany;Personal Care;1996/7/14;285662829;2834;81.73
+435;Europe;Austria;Vegetables;1982/4/17;612911641;3030;154.06
+436;Europe;Germany;Office Supplies;2014/3/23;703693473;7391;651.21
+437;Asia;Bhutan;Clothes;1984/6/9;147119653;4829;109.28
+438;Asia;Kyrgyzstan;Fruits;2012/11/22;402614009;1287;9.33
+439;Middle East and North Africa;Somalia;Personal Care;2010/6/24;749912869;4738;81.73
+440;Central America and the Caribbean;Saint Lucia;Household;2021/6/18;539065062;186;668.27
+441;Europe;Armenia;Snacks;2000/3/23;540431916;4668;152.58
+442;North America;Canada;Beverages;2010/6/25;694687259;2252;47.45
+443;Sub-Saharan Africa;Burundi;Cosmetics;1989/10/9;562817418;9036;437.20
+444;Europe;Liechtenstein;Cereal;2019/2/3;676121222;8149;205.70
+445;Middle East and North Africa;Tunisia ;Snacks;2004/4/16;286210000;4754;152.58
+446;Middle East and North Africa;Iraq;Beverages;2015/1/27;515007579;1042;47.45
+447;Asia;Indonesia;Cosmetics;2012/4/19;304750287;1237;437.20
+448;Asia;Kazakhstan;Beverages;2021/4/24;467986953;6594;47.45
+449;Europe;Denmark;Beverages;2021/8/18;537578904;399;47.45
+450;Europe;Luxembourg;Vegetables;2019/8/10;116699969;2969;154.06
+451;Sub-Saharan Africa;Cape Verde;Snacks;2011/9/25;228836476;6653;152.58
+452;Australia and Oceania;Palau;Vegetables;1998/10/11;167787253;832;154.06
+453;Australia and Oceania;Australia;Vegetables;2012/12/7;647663629;6915;154.06
+454;Central America and the Caribbean;Nicaragua;Meat;1984/3/15;652889430;3346;421.89
+455;Asia;Laos;Office Supplies;2001/4/21;588200986;598;651.21
+456;Central America and the Caribbean;Cuba;Personal Care;2019/12/5;928647124;6176;81.73
+457;Europe;Moldova ;Cosmetics;2001/11/17;869589173;9615;437.20
+458;Middle East and North Africa;Syria;Household;1996/5/14;576700961;7485;668.27
+459;Central America and the Caribbean;The Bahamas;Cereal;2006/1/3;735968816;8382;205.70
+460;Europe;Belarus;Snacks;1982/10/23;303691565;7938;152.58
+461;Middle East and North Africa;United Arab Emirates;Clothes;2006/11/3;556480538;3812;109.28
+462;Sub-Saharan Africa;Angola;Beverages;2010/11/25;141259562;698;47.45
+463;Central America and the Caribbean;Cuba;Cosmetics;2014/12/22;925264966;5320;437.20
+464;Europe;Ukraine;Office Supplies;2005/10/9;346045577;1431;651.21
+465;Sub-Saharan Africa;Mozambique;Fruits;2011/8/18;861462724;4818;9.33
+466;Europe;Armenia;Personal Care;1996/9/19;499690234;8299;81.73
+467;North America;Greenland;Clothes;2012/2/3;509214437;6722;109.28
+468;Central America and the Caribbean;Saint Kitts and Nevis ;Office Supplies;2003/6/19;408834159;1968;651.21
+469;Europe;Vatican City;Beverages;2000/11/22;237660729;7946;47.45
+470;Europe;Ukraine;Clothes;2011/1/27;105117976;5600;109.28
+471;Sub-Saharan Africa;Niger;Cereal;2019/9/22;640942227;7903;205.70
+472;Asia;Myanmar;Cosmetics;1990/4/9;745182311;4860;437.20
+473;Sub-Saharan Africa;Guinea;Baby Food;2019/10/14;738199555;8508;255.28
+474;Sub-Saharan Africa;Guinea-Bissau;Snacks;2015/12/3;110667788;7913;152.58
+475;Sub-Saharan Africa;South Sudan;Office Supplies;1982/10/9;673573338;4174;651.21
+476;Middle East and North Africa;Turkey;Snacks;2001/6/6;708215034;5421;152.58
+477;Australia and Oceania;Palau;Household;1995/11/9;816204202;1816;668.27
+478;Europe;Poland;Beverages;2016/5/11;769464671;550;47.45
+479;Asia;Malaysia;Beverages;2014/1/27;860232770;848;47.45
+480;North America;United States of America;Personal Care;2001/8/25;551057326;8963;81.73
+481;Europe;Switzerland;Cosmetics;2002/5/26;724799668;3183;437.20
+482;Australia and Oceania;Papua New Guinea;Cosmetics;2022/11/2;534633624;8825;437.20
+483;Sub-Saharan Africa;Namibia;Beverages;1983/4/18;554045522;3237;47.45
+484;Europe;Ireland;Clothes;2007/7/12;526834189;799;109.28
+485;Sub-Saharan Africa;Mozambique;Household;1988/1/13;717110955;7922;668.27
+486;Sub-Saharan Africa;Democratic Republic of the Congo;Baby Food;2000/3/27;559299647;8049;255.28
+487;North America;United States of America;Meat;2007/1/8;908136594;6654;421.89
+488;Middle East and North Africa;Azerbaijan;Office Supplies;2001/9/14;888670623;6240;651.21
+489;Europe;Belgium;Office Supplies;2005/10/23;146263062;1345;651.21
+490;Asia;Taiwan;Office Supplies;2005/5/28;196587741;3536;651.21
+491;Central America and the Caribbean;Panama;Baby Food;2007/1/17;375630986;6411;255.28
+492;Europe;Andorra;Beverages;1990/10/18;989691627;600;47.45
+493;Europe;Georgia;Household;1991/1/17;165380990;8765;668.27
+494;Central America and the Caribbean;Barbados;Snacks;2021/5/3;599622905;597;152.58
+495;Europe;Sweden;Personal Care;1983/7/3;109653699;7821;81.73
+496;Middle East and North Africa;Algeria;Meat;2017/5/23;183022201;9191;421.89
+497;Europe;Italy;Personal Care;1999/4/23;127589738;5494;81.73
+498;Europe;Russia;Fruits;1984/8/23;221530139;4546;9.33
+499;Central America and the Caribbean;Antigua and Barbuda ;Office Supplies;2007/6/8;363329732;6197;651.21
