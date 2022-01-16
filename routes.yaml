@@ -1,0 +1,15 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+
+product_view:
+  path: /product/{product_id}
+  controller: App\Controller\ProductController::getProduct
+  methods: 
+    - GET
+
+product_update:
+  path: /product
+  controller: App\Controller\ProductController::incertProduct
+  methods: 
+    - GET
